@@ -1,0 +1,14 @@
+/home/godwin-ofwono/Desktop/Ishop_Sourcing/trial1/bin/Debug/net8.0/trial1
+/home/godwin-ofwono/Desktop/Ishop_Sourcing/trial1/bin/Debug/net8.0/trial1.deps.json
+/home/godwin-ofwono/Desktop/Ishop_Sourcing/trial1/bin/Debug/net8.0/trial1.runtimeconfig.json
+/home/godwin-ofwono/Desktop/Ishop_Sourcing/trial1/bin/Debug/net8.0/trial1.dll
+/home/godwin-ofwono/Desktop/Ishop_Sourcing/trial1/bin/Debug/net8.0/trial1.pdb
+/home/godwin-ofwono/Desktop/Ishop_Sourcing/trial1/obj/Debug/net8.0/trial1.GeneratedMSBuildEditorConfig.editorconfig
+/home/godwin-ofwono/Desktop/Ishop_Sourcing/trial1/obj/Debug/net8.0/trial1.AssemblyInfoInputs.cache
+/home/godwin-ofwono/Desktop/Ishop_Sourcing/trial1/obj/Debug/net8.0/trial1.AssemblyInfo.cs
+/home/godwin-ofwono/Desktop/Ishop_Sourcing/trial1/obj/Debug/net8.0/trial1.csproj.CoreCompileInputs.cache
+/home/godwin-ofwono/Desktop/Ishop_Sourcing/trial1/obj/Debug/net8.0/trial1.dll
+/home/godwin-ofwono/Desktop/Ishop_Sourcing/trial1/obj/Debug/net8.0/refint/trial1.dll
+/home/godwin-ofwono/Desktop/Ishop_Sourcing/trial1/obj/Debug/net8.0/trial1.pdb
+/home/godwin-ofwono/Desktop/Ishop_Sourcing/trial1/obj/Debug/net8.0/trial1.genruntimeconfig.cache
+/home/godwin-ofwono/Desktop/Ishop_Sourcing/trial1/obj/Debug/net8.0/ref/trial1.dll
