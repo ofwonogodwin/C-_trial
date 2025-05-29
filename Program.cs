@@ -57,6 +57,12 @@ else
     Console.WriteLine($"Sorry {named},You are not eligible to vote");
 }
 
+//Dealing with Loops
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"{named}");
+}
+
 
 
 
