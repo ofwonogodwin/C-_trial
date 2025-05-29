@@ -12,3 +12,4 @@
 /home/godwin-ofwono/Desktop/Ishop_Sourcing/trial1/obj/Debug/net8.0/trial1.pdb
 /home/godwin-ofwono/Desktop/Ishop_Sourcing/trial1/obj/Debug/net8.0/trial1.genruntimeconfig.cache
 /home/godwin-ofwono/Desktop/Ishop_Sourcing/trial1/obj/Debug/net8.0/ref/trial1.dll
+/home/godwin-ofwono/Desktop/Ishop_Sourcing/trial1/obj/Debug/net8.0/trial1.sourcelink.json

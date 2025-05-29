@@ -41,7 +41,21 @@ else
 {
     Console.WriteLine("Grade F");
 }
-
+ // Simple Adult detecting System.
+Console.Write("Please Enter your Name: "); 
+string named = Console.ReadLine();
+Console.WriteLine($"Heyy {named},");
+Console.WriteLine("Please Enter your Age");
+int ages = int.Parse(Console.ReadLine());
+Console.WriteLine($"{named},your age is {ages}");
+if (ages >= 18)
+{
+    Console.WriteLine("You are eligible to vote");
+}
+else
+{
+    Console.WriteLine($"Sorry {named},You are not eligible to vote");
+}
 
 
 
