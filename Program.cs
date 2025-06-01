@@ -1,10 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
+// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Lets all Se this program and Its Flows");
 Console.Write("Enter your Name: ");
 string name = Console.ReadLine();
 Console.WriteLine($"Hello {name}");
-int y = 10;
+int y = 110;
 int x = 30;
 Console.WriteLine(x+y);
 Console.WriteLine();
